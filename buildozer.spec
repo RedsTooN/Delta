@@ -58,7 +58,7 @@ presplash.filename = /home/jbsidis/Escritorio/aa/kivymd/images/kivymd_logo.png
 icon.filename = /home/jbsidis/Escritorio/aa/kivymd/images/kivymd_logo.png
 
 # (str) Supported orientation (one of landscape, portrait or all)
-orientation = all
+orientation = 1
 
 # (list) List of service to declare
 #services = NAME:ENTRYPOINT_TO_PY,NAME2:ENTRYPOINT2_TO_PY
